@@ -2,10 +2,10 @@
 
 ## Team Members
 1. Emily Jackson [@edj69332](https://github.com/edj69332)
-3. Parker Jackson [jcp39649](https://github.com/jcp39649)
-4. Selest Kok
-5. Paola Diaz
-6. Lukas Farris
+3. Parker Jackson [@jcp39649](https://github.com/jcp39649)
+4. Selest Kok [@selestkok](https://github.com/selestkok)
+5. Paola Diaz [@paoladiaz1](https://github.com/paoladiaz1)
+6. Lukas Farris [@Lafarris824](https://github.com/Lafarris824)
 
 ## Scenario Description
 Our team was tasked with modeling and building a relational database that represents the operations and management of a pet shelter organization. The central entity in this model is the Pets entity, which keeps track of animals available for adoption, their species, breeds, medical history, and shelter location. The organization operates multiple locations, each of which manages its own inventory and staff. The shelters facilitate the care of animals by employing various staff members who help maintain the well-being of the pets and ensure they are matched with suitable adopters. A key part of this system is the adoption process, where potential adopters apply to adopt pets, and their details are stored for record-keeping. We aim to accurately model the relationship among these entities, generate sample data, and populate the database with realistic information. Furthermore, we will execute queries on this data to gain valuable insights about the shelter’s operations. 
@@ -53,28 +53,34 @@ Explanation: This query provides a similar insight to the first query, but outpu
   Explanation: This query could be useful in knowing which employees are doing the most work with the most pets, and therefore could be a factor in deciding employee wages, bonuses, or raises.
 
 5. Print the number of employees by role in all Shelter Locations in Texas
+![AD_4nXf8uo-RbdIPtwlMKs0ThVDBTtmF8wZyNLtXRi1vpt9pX4-htFS0trrD2ak5LOxsg_erXbsLNiIfZDi-6TeFMBXu3ShTETlV_aA9STzwBdl6iVjY_aah1Rn-](https://github.com/user-attachments/assets/12160be3-30aa-4564-a133-3ab433a2f83d)
 
   Explanation: This query allows the user to see how many of each type of employee is located in texas. This table could be even more useful by looking at what it does not output vs what it does, because based on what is not in this list, a manager could know what roles they need to hire for shelters in texas.
 
 
 6. Print the names of Adopters who have adopted pets at multiple shelter locations
+![AD_4nXfSB95jEAnsJfqanarCCI6USl_WVT-BFo8ox_Rfe9pJ6Fu1_xeuc5pBtgOKwEazPySnDovi_GRFDTPLODt4EvmtoAD46DS5P9IeSbe5B0mmnbPsJcQjrh5e](https://github.com/user-attachments/assets/861ebb56-8536-4543-bd63-13a39947d558)
 
   Explanation: This query provides a list of adopters who have adopted at multiple locations, and are therefore the best customers. Shelter Locations should take extra care of these adopters in order to keep them happy.
 
  ### Simple
 7. Print out pet names at a shelter number 1
+![AD_4nXfhujLcgWd2FUmKjKC28wZFcztC4OMQnIeAYDSxHC8wgYmwjZp2BfQ9FvSb_SeHg-IeSiR_Pe2R2UsfGNAtDVjtpYBTsVu-pZ6l7fgnzqvb_fFbPv-zMuRp](https://github.com/user-attachments/assets/33d151e9-5171-4b11-80a8-2c26fd791333)
 
   Explanation: This query helps shelter managers quickly identify and track the pets housed at a specific location. It is useful for monitoring shelter capacity, facilitating adoption events, and coordinating medical treatments. A manager can use this query to assess real-time pet availability and make operational decisions accordingly!
 
 8. Find total value of inventory per shelter location.
+![AD_4nXemE4kztc-rejPspjCt_pBC85UYxP6_RKnGzxA6XVraY9yMl41T3J-FnxDgXfyA809tLG8n62yW6sbVen2O9BIWMZ2pDU_Q5PxepiTm5aQQz6_CTkMeCw39](https://github.com/user-attachments/assets/5410f8aa-2982-4ecd-bdfd-e0bec15ba750)
 
   Explanation: This query helps managers understand the total financial value of inventory at each shelter, which is crucial for budgeting and financial planning, resource allocation, and preventing overstocking or shortages. Here, we can identify shelters that may have too much or too little stock. We can ensure shelters that have the right balance of supplies. By analyzing inventory value across shelters, we can optimize purchasing decisions and reduce waste, ensuring shelters operate efficiently.
 
 9. List all adopters with their contact information.
+![AD_4nXcPgqL0D445NwTfSPrrxqaf_7DTQqv5v8ogjPQdi8RACQnAzdZwHsuG2nt_Dk9J89BiSbthtF1vd8phS4WbmhP42Sd4nm7JsPTDcJx3v5Js0Pyw1rvPp5Qq](https://github.com/user-attachments/assets/49c351f2-104b-4261-b379-da3ba8f973f1)
 
   Explanation: This query is crucial for post-adoption support and shelter relations. It helps managers follow up on pet well-being, encourage future adoptions, and organize adoption events. Building long-term relationships with adopters enhances the reputation and sustainability of the shelter.
 
 10. List all of the dogs
+![AD_4nXcyu2rPHYhjeC9NFJA2wSCrC-6PHPYg-Y8l515xp7VaeGJs9XYBbXrY1hSqKx6v85zH4-R2KyiQsLNUukL1IVLztGVaXryXoW65Sc8B3FJVjRkjGoknSSon](https://github.com/user-attachments/assets/56336289-bb79-421e-a967-6e4f9421c2b6)
 
 Explanation: Tracking all dogs in the shelter is critical for efficient shelter management and adoption planning. This helps managers plan adoption events, monitor shelter capacity, and assist breed specific rescues. By keeping an updated list of all dogs, shelters can ensure they provide the best care and find homes faster.
 
