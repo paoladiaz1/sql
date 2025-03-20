@@ -2,7 +2,7 @@
 
 ## Team Members
 1. Emily Jackson [@edj69332](https://github.com/edj69332)
-3. Parker Jackson 
+3. Parker Jackson [jcp39649](https://github.com/jcp39649)
 4. Selest Kok
 5. Paola Diaz
 6. Lukas Farris
