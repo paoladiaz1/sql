@@ -1,7 +1,7 @@
 # MIST 4610 Group Project 1: Team 1
 
 ## Team Members
-1. Emily Jackson @edj69332
+1. Emily Jackson 
 3. Parker Jackson 
 4. Selest Kok
 5. Paola Diaz
