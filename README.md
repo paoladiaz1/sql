@@ -1,11 +1,11 @@
 # MIST 4610 Group Project 1: Team 1
 
 ## Team Members
-1. Emily Jackson
-2. Parker Jackson 
-3. Selest Kok
-4. Paola Diaz
-5. Lukas Farris
+1. Emily Jackson @edj69332
+3. Parker Jackson 
+4. Selest Kok
+5. Paola Diaz
+6. Lukas Farris
 
 ## Scenario Description
 Our team was tasked with modeling and building a relational database that represents the operations and management of a pet shelter organization. The central entity in this model is the Pets entity, which keeps track of animals available for adoption, their species, breeds, medical history, and shelter location. The organization operates multiple locations, each of which manages its own inventory and staff. The shelters facilitate the care of animals by employing various staff members who help maintain the well-being of the pets and ensure they are matched with suitable adopters. A key part of this system is the adoption process, where potential adopters apply to adopt pets, and their details are stored for record-keeping. We aim to accurately model the relationship among these entities, generate sample data, and populate the database with realistic information. Furthermore, we will execute queries on this data to gain valuable insights about the shelter’s operations. 
